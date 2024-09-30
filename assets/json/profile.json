@@ -1,0 +1,9 @@
+{
+  "name": "Иван Иванов",
+  "email": "ivan@example.com",
+  "phone": "+79101234567",
+  "avatars": [
+    "assets/images/avatar1.jpg",
+    "assets/images/avatar2.jpg"
+  ]
+}
